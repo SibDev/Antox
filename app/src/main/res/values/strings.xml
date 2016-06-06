@@ -43,13 +43,11 @@
     <string name="create_account_encrypted_profile_error">Antox does not support encrypted profiles yet</string>
     <string name="create_account_load_profile_unknown">Unknown error loading profile</string>
 
-
     <!-- Main Activity -->
     <string name="main_no_active_chat">No active chat. Start one by choosing a friend from the pane on the left.</string>
     <string name="main_recent_no">No recent conversations</string>
     <string name="main_no_internet">No Internet Connection</string>
-    <string name="main_not_connected">No internet connection has been detected. Without an internet connection, you will have
-        limited functionality unless you are using Antox for LAN only</string>
+    <string name="main_not_connected">No internet connection has been detected. Without an internet connection, you will have limited functionality unless you are using Antox for LAN only</string>
     <string name="main_mobile_disabled">Currently offline as Wi-Fi only mode is enabled. Touch to open settings. </string>
     <string name="search_all_contacts">Search all contacts</string>
     <string name='main_group_coming_soon'>"Coming soon…"</string>
@@ -153,12 +151,10 @@
     <string name="friend_action_delete_chat_confirmation">Are you sure you want to delete the chat logs?</string>
 
     <!-- Block Friend Dialog -->
-    <string name="friend_action_block_friend_confirmation">Blocking this user will remove them from your friends list and you will no longer see friend
-        requests from them.\n\nAre you sure you wish to continue?</string>
+    <string name="friend_action_block_friend_confirmation">Blocking this user will remove them from your friends list and you will no longer see friend requests from them.\n\nAre you sure you wish to continue?</string>
 
     <!-- Reset ToxID Dialog -->
-    <string name="reset_tox_id_dialog_message">Resetting your Tox ID changes your ID permanently. You will
-        keep your current contacts list, but other people won\'t be able to add you using your old ID. </string>
+    <string name="reset_tox_id_dialog_message">Resetting your Tox ID changes your ID permanently. You will keep your current contacts list, but other people won\'t be able to add you using your old ID. </string>
     <string name="reset_tox_id_dialog_title">Confirm Tox ID Reset</string>
     <string name="reset_tox_id_dialog_confirm">Reset ID</string>
     <string name="reset_tox_id_dialog_cancel">Cancel</string>

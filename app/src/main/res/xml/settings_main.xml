@@ -2,8 +2,7 @@
 <PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
 
     <PreferenceCategory android:title="@string/pref_header_notifications">
-        <!-- A 'parent' preference, which enables/disables child preferences (below)
-         when checked/unchecked. -->
+        <!-- A 'parent' preference, which enables/disables child preferences (below) when checked/unchecked. -->
         <CheckBoxPreference
             android:defaultValue="true"
             android:key="notifications_enable_notifications"
@@ -105,8 +104,7 @@
     </PreferenceCategory>
 
     <PreferenceCategory android:title="@string/pref_header_other">
-        <!-- NOTE: Hide buttons to simplify the UI. Users can touch outside the dialog to
-         dismiss it. -->
+        <!-- NOTE: Hide buttons to simplify the UI. Users can touch outside the dialog to dismiss it. -->
         <!-- NOTE: ListPreference's summary should be set to its value by the activity code. -->
         <ListPreference
             android:defaultValue="-1"

@@ -41,7 +41,7 @@
     <string name="main_recent_no">Нет недавних бесед</string>
     <string name="main_no_internet">Проверьте интернет соединение</string>
     <string name="main_not_connected">Подключение к интернету не было обнаружено. Вы будете иметь ограниченные возможности, если вы используете Antox только в локальной сети</string>
-    <string name="main_mobile_disabled">Currently offline as Wi-Fi only mode is enabled. Коснитесь, чтобы открыть настройки. </string>
+    <string name="main_mobile_disabled">В настоящее время в автономном режиме, так как  включен режим «только Wi-Fi». Коснитесь, чтобы открыть настройки. </string>
     <string name="search_all_contacts">Поиск контактов</string>
 
     <!-- Chat Activity -->
@@ -66,7 +66,7 @@
     <string name="addfriend_optional_title">Дополнительно</string>
     <string name="dialog_pin">Введите pin Вашего друга</string>
     <string name="addfriend_invalid_pin">Неверный pin</string>
-    <string name="addfriend_own_key">Соединение с параллельной вселенной не установлено :-(</string>
+    <string name="addfriend_own_key">Невозможно добавлять самого себя )-:</string>
     <string name="addfriend_friend_pin_title">Введите pin друга</string>
     <string name="addfriend_friend_pin_text">Введите pin друга</string>
     <string name="addfriend_default_message">Привет! Я хочу внести Вас в свой список контактов</string>
@@ -134,8 +134,7 @@
     <string name="friend_action_block_friend_confirmation">Если вы заблокируете пользователя, то не сможете больше получать от него сообщения и оповещенияе, он также будет автоматически удален из вашего списка контактов.</string>
 
     <!-- Reset ToxID Dialog -->
-    <string name="reset_tox_id_dialog_message">Сброс вашего Tox ID изменит ваш ID навсегда. Вы сохраните
-         ваш текущий список контактов, но другие люди не смогут добавить вас you используя ваш старый ID. </string>
+    <string name="reset_tox_id_dialog_message">Сброс вашего Tox ID изменит ваш ID навсегда. Вы сохраните ваш текущий список контактов, но другие люди не смогут добавить вас you используя ваш старый ID. </string>
     <string name="reset_tox_id_dialog_title">Защита от спама</string>
     <string name="reset_tox_id_dialog_confirm">Сбросить</string>
     <string name="reset_tox_id_dialog_cancel">Отмена</string>
